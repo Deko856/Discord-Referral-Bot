@@ -46,5 +46,6 @@ module.exports.info = {
   name: "getreferral",
   usage: "",
   alias: ["referral"],
+  requiredRoles: [""]
   help: "Generates a personal referral code for you."
 }
