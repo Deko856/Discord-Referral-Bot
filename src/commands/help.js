@@ -36,5 +36,6 @@ module.exports.info = {
   name: "help",
   usage: "",
   alias: [],
+  requiredRoles: [""],
   help: "Shows this list."
 }
