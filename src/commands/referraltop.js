@@ -41,5 +41,6 @@ module.exports.info = {
   name: "referraltop",
   usage: "",
   alias: [],
+  requiredRoles: [""],
   help: "Displays the top 10 users with the most referrals"
 }
