@@ -8,6 +8,11 @@ This project is currently abandoned but no plans to make furthur improvements or
 2. Node.js [Download](https://nodejs.org/en/)
 3. Discord.js [Install](https://discord.js.org/#/)
 
+## 🚀 Getting Started & Installation
+1. Enter your Discord bot token into the `.env` file
+2. Run `npm install`
+
+
 ## ⚙️ Configuration
 ```javascript
 {
@@ -16,6 +21,8 @@ This project is currently abandoned but no plans to make furthur improvements or
 "embed_image": "INSERT IMAGE LINK"
 }
 ```
+
+
 
 ## 💬 Commands
 `r!help` Shows commands available to the user they can use.
@@ -29,3 +36,9 @@ This project is currently abandoned but no plans to make furthur improvements or
 ## ✨ Features
 
 `requiredRoles: ["758733011742359642"]` Allows you to set commands to only be used by certain roles. If a user uses the Help command and does not have the role for a command that require for a certain command, it will not be displayed in the Help command embed to the user.
+
+## Dependencies
+- better-sqlite3
+- discord.js v12
+- dotenv
+- fs-readdir-recursive
