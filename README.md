@@ -1,7 +1,7 @@
 # Discord-Referral-Bot
 Discord bot that can allow users to sign up to the referral program using this bot to then track how many people they invite to your Discord server.
 
-This project is currently abandoned but no plans to make furthur improvements or add new features.
+This project is currently abandoned with no plans to make furthur improvements or add new features.
 
 ## Requirements
 1. Discord Bot Token [Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
