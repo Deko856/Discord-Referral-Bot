@@ -47,5 +47,6 @@ module.exports.info = {
   name: "referralcount",
   usage: "[optionally, user mention or id]",
   alias: ["referrals"],
+  requiredRoles: [""],
   help: "Shows how many referrals you have. If you provide a user mention or ID, shows how many referrals that user has."
 }
